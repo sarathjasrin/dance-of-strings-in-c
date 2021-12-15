@@ -1,4 +1,4 @@
-# Dance of Strings in c
+# Dance of Strings in C
 
 This is the sample task for learnig c basics. 
 
